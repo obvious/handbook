@@ -21,7 +21,7 @@ Note that meeting the cut-off score is a ncessary, but not a sufficient conditio
 | **Testing**                                                                                                                                                      |                  |                  |
 | There are either no tests, or a few tests that aren't really that useful                                                                                         | 0                | -1               |
 | Tests for business logic are present, but they are tested via instrumentation/UI tests                                                                           | 1                | 1                |
-| Business logic is tested using a good number of unit tests, and there might be instrumentated/UI tests for testing platform integration                          | 2                | 2                |
+| Business logic is tested using a good number of unit tests, and there might be instrumented/UI tests for testing platform integration                          | 2                | 2                |
 | **Application**                                                                                                                                                  |                  |                  |
 | Barebones, developer UI with no error/touch feedback to the user                                                                                                 | 0                | -1               |
 | Functional UI, and with error feedback and/or touch feedback                                                                                                     | 1                | 1                |
