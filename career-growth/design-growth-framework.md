@@ -146,7 +146,7 @@ Here's what the skills and the corresponding milestones look like:
 |  | `Plays a strong role in the growth of team members through constant guidance, mentorship and support.` |
 | `1` | Supports new hires by familiarising them with Obvious' current frameworks, practices and institutional knowledge. |
 | `2` | Mentors individuals proactively by providing strong work related guidance. |
-| `3` | Through constant mentorship, helps individuals create and execute growth plans, by aligning their value system and aspirations to the development of necessary skills that can unlock those aspirations.. |
+| `3` | Through constant mentorship, helps individuals create and execute growth plans, by aligning their value system and aspirations to the development of necessary skills that can unlock those aspirations. |
 | `4` | Encourages and enables peer-to-peer mentorship, mentors large groups or teams, supports the development of a significant part of the organization. |
 | `5` | Is viewed as a trusted advisor by the leadership and all teams, and promotes a culture of learning and development throughout the entire organization. |
 {% endtab %}
