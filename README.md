@@ -1,6 +1,6 @@
 # Our Playbook
 
-At Obvious, we’re working to build an inclusive company with a value-driven culture. That’s an easy thing to want and say, but it’s difficult to practice because exclusion is often the default in our industries \(both software and consulting\). It takes active effort to find the hidden biases in our companies and remove them.
+At Obvious, we are working to build an inclusive company with a value-driven culture. That’s an easy thing to want and say, but it’s difficult to practice because exclusion is often the default in our industries \(both software and consulting\). It takes active effort to find the hidden biases in our companies and remove them.
 
 One of our core values is to be "**public by default**": this repository therefore contains nearly all of the policies and practices that we use at Obvious. It represents many hours of research, lots of thoughtful debates, and some serious introspection. It’s certainly not perfect, but we think it’s a great place to start.
 
