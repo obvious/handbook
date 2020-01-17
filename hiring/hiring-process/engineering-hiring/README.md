@@ -1,5 +1,14 @@
 # Engineering Hiring
 
+Our interview process is a little different from what you might expect. For instance, we do not test for the following skills:
+
+- Data Structures and Algorithms
+- Whiteboard puzzle/problem solving
+
+The detailed explanation on why we do not test for these skills can be found [HERE](why-we-do-not-have-problem-solving-rounds.md). The summary of that page is that we fundamentally believe in testing only for skills that we expect will be needed for (most of) the kind of work that we do here.
+
+Your interview experience with us will generally look like this:
+
 ## 1. Answer the "Opinion Questions"
 
 As a team, we're quite an opinionated one! It helps us to listen to everyone -- we end up learning from each other's point of view. To know you better, we ask you to write down answers to these 4 questions:
@@ -17,16 +26,11 @@ _We'll get back to you in 2-3 days, with further instructions._
 
 ## 2. Take-home Exercise
 
-Aha, finally some code! We're not fond of asking questions around algorithms or data structures or even on-site white-boarding exercises. Instead, we will ask you to build a small app using publicly available resources. 
+Aha, finally some code! We will ask you to build a small app using publicly available resources.
 
 * You do this exercise at your own pace, on your own computer, and in an environment that is comfortable for you. 
 * We expect you to use git, [commit code as you go along](../../../engineering-playbook/release-engineering/git-commit-messages.md), and build the app iteratively -- just as you would during a normal workday. 
 * When you're done, make your repository public and send us a link to it. We'll go through what you've built and get back to you in a few days.
-
-If you have done a different homework exercise in the recent past, we might consider that instead of asking you to do another one. Any alternate exercise that we could review in lieu of our take-home exercise must satisfy the following conditions for us to be able to review it:
-
-* It must be a publicly viewable repository on a service like GitHub, Bitbucket, or Gitlab.
-* It must be a complete android application, i.e, it must be an app that integrates UI, disk persistence, and network interaction.
 
 #### For reviewers
 
