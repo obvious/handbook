@@ -2,7 +2,7 @@
 
 ## A 360° process
 
-Evalutions are done in a comprehensive and transparent manner, facilitated by the manager. 
+Evaluations are done in a comprehensive and transparent manner, facilitated by the manager. 
 
 1. Each person self-evaluates themselves. 
 2. Everyone in a project team evaluates each other. 

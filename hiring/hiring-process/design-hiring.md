@@ -23,19 +23,24 @@ We're looking for clarity of thought and tight articulation. There are no right 
 
 If your answers indicate that you and Obvious might be a good fit for each other, we’ll set up a screening call with you. It’ll be brief - half an hour tops. 
 
-The screening call helps us understand your expectations, and how might we play a role in meeting them.  
+The screening call helps us understand your expectations, and how might we play a role in meeting them. This also offers you an opportunity to ask us any questions you may have! 
 
 ## Step 3 - Spend a Day at Obvious 
 
 If the results of the screening call are positive, you’ll be invited to spend a Day at Obvious. This will be split into 2 parts: 
 
-1. A presentation of your work to the team
-2. Interviews with your future colleagues 
+**1. Present your work to the team**  
+This step will include 3-5 designers from our team. We know that can seem like a lot, but we're just curious!   
+You'll be asked to walk us through one project in about 20 minutes. In this process, we'll try asking you questions that not only give us an insight into how you design but also who you are as a person.   
+We're hoping that the interview feels like an ideation and feedback session so you have something to take away from it too.
+
+**2. Interviews with your future colleagues**  
+Once you're done with the presentation, each interviewer will have a half an hour long conversation with you individually to get to know you better.   
+Here at Obvious, we're a diverse bunch. So you can expect these interviews to include conversations ranging from craft to people to board games. 
 
 At the end of your Day at Obvious, you will be evaluated on our [design growth rubric](https://playbook.obvious.in/career-growth/design-growth-framework) by all of your interviewers. 
 
 ### And that’s it! 
 
-Once the entire hiring process is over, and it looks like you and Obvious might be a good fit for each other, you will receive an offer letter from us within a week. If you don’t, we’ll be sure to leave you with some  constructive feedback.  
-
+Once the entire hiring process is over, and if it looks like you and Obvious might be a good fit for each other, you will receive an offer letter from us within a week. If you don’t, we’ll be sure to leave you with some  constructive feedback.
 
