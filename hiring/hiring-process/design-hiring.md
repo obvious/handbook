@@ -31,7 +31,7 @@ If the results of the screening call are positive, you’ll be invited to spend 
 
 **1. Present your work to the team**  
 This step will include 3-5 designers from our team. We know that can seem like a lot, but we're just curious!   
-You'll be asked to walk us through one project in about 20 minutes. In this process, we'll try asking you questions that not only give us an insight into how you design but also who you are as a person.   
+You'll be asked to walk us through one project in about 20 minutes. In this process, we'll try asking you questions about your methods, ideas and decisions.  
 We're hoping that the interview feels like an ideation and feedback session so you have something to take away from it too.
 
 **2. Interviews with your future colleagues**  
