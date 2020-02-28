@@ -10,10 +10,18 @@ Your sessions remain completely confidential between you and your doctor. Obviou
 
 * [Nimhans](http://www.nimhans.ac.in/online-appointments-opd)
 * [Parivarthan](http://www.parivarthan.org/)
-* [iCall's Curated List of Trustworthy Mental Helath Professionals](https://docs.google.com/spreadsheets/u/1/d/1pzckT6ns2H1IlmwYwJa8EnBh_1u3gRA9cEOoA4zfilc/htmlview#)
+* [iCall's Curated List of Trustworthy Mental Health Professionals](https://docs.google.com/spreadsheets/u/1/d/1pzckT6ns2H1IlmwYwJa8EnBh_1u3gRA9cEOoA4zfilc/htmlview#)
 * [The Alternative Story](http://alternativestory.in/)
+
+### Enabling safe conversations on emotional well-being
+
+We need a common language to be able to create safety for each other and to have conversations on emotional well-being. To do that, we've created a framework that includes the perspectives of someone wanting to talk about their emotional health, a peer learning to be supportive, and leaders to sensitively provide support and structure.
+
+### Conversations on emotional well-being
+
+
 
 #### See Also
 
-{% page-ref page="paid-time-off.md" %}
+{% page-ref page="../paid-time-off.md" %}
 
