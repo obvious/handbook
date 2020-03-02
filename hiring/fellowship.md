@@ -6,7 +6,7 @@ description: A 12 week fellowship program for new hires.
 
 ## The What
 
-Irrespective of experience and seniority, every new hire at Obvious goes through a 12 week fellowship program. The fellowship is a mutual fit assessment opportunity for the candidate, as well as for Obvious. Our goal is to fairly identify the value the new hire brings to the table by deeply immersing them in our ways of working, and then evaluating them on each axis of our 12-axis Growth Framework. This evaluation helps us and the candidate understand their value in the org, based on which they are offered a position.
+Irrespective of experience and seniority, every new hire at Obvious goes through a 12 week fellowship program. The fellowship is a mutual fit assessment opportunity for the candidate, as well as for Obvious. Our goal is to fairly identify the value the new hire brings to the table by deeply immersing them in our ways of working, and then evaluating them on each axis of our 11-axis Growth Framework. This evaluation helps us and the candidate understand their value in the org, based on which they are offered a position.
 
 ## The Why
 
@@ -29,7 +29,7 @@ At the end of week 1, the candidate does a short presentation introducing themse
 
 ### Week 2:  Discover
 
-In the beginning of the second week, the candidate and their manager align and agree on a complex problem with a sharp focus area for one person to be able to solve it in 7 weeks. This problem is selected from an internal crowdsourced pool of ideas at Obvious. The remaining part of the week is spent refining the problem definition and coming up with an initial hypothesis.
+In the beginning of the second week, the candidate and their manager align and agree on a complex problem with a sharp focus area for one person to be able to solve it in 7 weeks. This problem is selected from an existing client project at Obvious. The remaining part of the week is spent refining the problem definition and coming up with an initial hypothesis.
 
 {% hint style="success" %}
 **Milestone 2**  

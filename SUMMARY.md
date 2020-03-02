@@ -59,6 +59,7 @@
     * [Evaluating a take-home exercise](hiring/hiring-process/engineering-hiring/scoring-a-take-home-exercise.md)
     * [Why we do not have data structures and problem solving rounds](hiring/hiring-process/engineering-hiring/why-we-do-not-have-problem-solving-rounds.md)
 * [The Obvious Fellowship](hiring/fellowship.md)
+* [The Obvious Internship](hiring/the-obvious-internship.md)
 
 ## Career Growth
 
