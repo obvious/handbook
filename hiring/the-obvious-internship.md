@@ -56,6 +56,8 @@ The outcome of this stage is a set of well defined problems with an equally stro
 At the end of week 4, the intern presents their work from the investigation exercise, followed up by a detailed written feedback by the team. The mentor then provides the candidate with actionable feedback based on which the intern formulates their next steps. 
 {% endhint %}
 
+### 
+
 ### Weeks 5-8: Solve & Iterate
 
 Using our design/engineering frameworks, along with some guidance from the mentor, the intern translates the direction from the previous stage into a well thought out, 4-week execution plan. For the next 4 weeks, the candidate builds out the solution iteratively, seeking feedback and counsel from their mentor and team at a regular cadence.
