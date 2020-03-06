@@ -41,7 +41,7 @@ The scoring has six different sections \(see table below\), all of which contrib
 | Names are unnecessarily short or meaningless. Ex: `a`, `something`, `doWork`, `runQuery`. An exception to this rule would be something like the iteration variable in a `for` loop. | 0 |
 | Names are mostly descriptive and indicative of the intent. Some names might occasionally be unclear without explanation. | 1 |
 | Names are mostly descriptive and indicative of the intent. Unclear names have clear comments explaining the purpose of the variable/function and the intent behind it. | 2 |
-| **Minimum Score Required** | **5** |
+| **Minimum Score Required** | **7** |
 
 ## Notes
 
