@@ -54,8 +54,6 @@ At the end of week 4, the candidate presents their work from the investigation e
 
 {% page-ref page="../career-growth/design-growth-framework.md" %}
 
-{% page-ref page="../career-growth/engineering-growth-framework.md" %}
-
 ### 
 
 ### Weeks 5-8: Solve
