@@ -74,6 +74,10 @@
       * [Re-entry into the workstream](career-growth/underperformance/performance-improvement-plan-pip/sample-pip-letter/re-entry-into-the-workstream.md)
   * [Letting Someone Go](career-growth/underperformance/letting-someone-go.md)
 
+## Health and Safety
+
+* [Pandemic Response Protocol: COVID-19](health-and-safety/pandemic-response-protocol-covid-19.md)
+
 ## Legal Templates
 
 * [Client Contracts](legal-templates/legal-templates/README.md)
