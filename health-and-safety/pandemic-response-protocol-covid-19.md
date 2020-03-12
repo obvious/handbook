@@ -1,8 +1,12 @@
 # Pandemic Response Protocol: COVID-19
 
-_Date: 10th March 2020. This is a living document. As updated versions are published, they will be listed above, so you can refer to the most recent version._ 
+{% hint style="warning" %}
+Current Status: Level II
+{% endhint %}
 
-**This document serves to help you navigate through the uncertainty to work and life that is the pandemic, Covid-19. As things evolve in Bangalore and in the rest of the country, we will edit, add and change our guidelines. At any point, if you have any questions or concerns, please talk to Rahul or Monica and get the support you need.** 
+This document serves to help you navigate through the uncertainty to work and life that is the pandemic, Covid-19. As things evolve in Bangalore and in the rest of the country, we will edit, add and change our guidelines. At any point, if you have any questions or concerns, please talk to Rahul or Monica and get the support you need.
+
+_Date: 10th March 2020. This is a living document. As updated versions are published, they will be listed below, so you can refer to the most recent version._
 
 ## What information do you have?
 
@@ -14,7 +18,7 @@ At the organisation’s level, here are guidelines:
 
 ### Level I
 
-#### Effective dates: **1-Mar-2020** onward 
+#### Effective dates: **1 March to 10 March** 2020
 
 * Visitors are welcome, unless, they’ve been traveling in any of the currently affected areas, such as Italy, Iran, etc. One of our new joiners is working from home for her first 2 weeks as a precautionary measure, because she was in Milan in the middle of February. 
 * Travel on work only on a need-to basis, after assessing the safety of the location you’re traveling to. 
@@ -25,7 +29,7 @@ At the organisation’s level, here are guidelines:
 
 ### Level II
 
-#### Effective dates:  
+#### Effective dates:  11 March onward
 
 * The standard decision would be to have conversations with people outside Obvious on email/ phone/hangouts/zoom etc., and avoid a physical in-office meeting. If the Bangalore situation is such that there are increasing cases of affected, we have no way of identifying a geographic control. If there are meetings where visitors have to drop in, run it past your function head and get a go-ahead from them. Before confirming any on-site meetings, ask their travel history and about their health to check if they’re recovering from the ‘flu _\(the assumption being if they currently have the flu or a cold or fever, they won’t be visiting\)_.
 * All travel in or out of Bangalore on work is on hold. We will verify the MHFW \(Ministry of Health and Family Welfare\) advisory on local/international travel and tweak this as needed. 
@@ -59,5 +63,5 @@ At this stage, we will move to 100% remote working till further updates. In such
 * This is a new situation. We are not yet ready for full-remote functioning indefinitely. We will try and talk to others to find out implications of this
 * Within colleagues, we will have a system of mutual check-ins to ensure each others’ safety. Not to be flippant about it, but, have a system of pairing up “Pandemic Pals”.
 
-Source: The [Lattice protocol document](https://docs.google.com/document/d/17nu94sWZJhwqqDhOLBLSNV6ACg45_T5Kbo_ZtUzNm_k/edit). 
+Reference: The [Lattice protocol document](https://docs.google.com/document/d/17nu94sWZJhwqqDhOLBLSNV6ACg45_T5Kbo_ZtUzNm_k/edit)
 
