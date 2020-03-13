@@ -29,7 +29,7 @@ At the organisation’s level, here are guidelines:
 
 ### Level II
 
-#### Effective dates:  11 March onward
+#### Effective dates:  11 March - 15 March, 2020
 
 * The standard decision would be to have conversations with people outside Obvious on email/ phone/hangouts/zoom etc., and avoid a physical in-office meeting. If the Bangalore situation is such that there are increasing cases of affected, we have no way of identifying a geographic control. If there are meetings where visitors have to drop in, run it past your function head and get a go-ahead from them. Before confirming any on-site meetings, ask their travel history and about their health to check if they’re recovering from the ‘flu _\(the assumption being if they currently have the flu or a cold or fever, they won’t be visiting\)_.
 * All travel in or out of Bangalore on work is on hold. We will verify the MHFW \(Ministry of Health and Family Welfare\) advisory on local/international travel and tweak this as needed. 
@@ -43,7 +43,7 @@ At the organisation’s level, here are guidelines:
 
 ### Level III
 
-#### Effective dates:  
+#### Effective dates:  16 March onward
 
 The Government of India does not have a code-red framework when a city or region goes into lockdown. We will take a call on this on the basis of what we’re hearing from our networks and what we’re seeing around us. Some of the triggers could be: 
 
