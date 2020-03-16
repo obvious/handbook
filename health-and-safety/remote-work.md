@@ -20,6 +20,8 @@ Check off from this list if you have everything you need to function normally:
 
 If you have trouble figuring any of this, please raise that issue and let’s see what we can do to help you. 
 
+For an extremely comprehensive guide, check out the [Coronavirus Tech Handbook](https://coronavirustechhandbook.com/).
+
 ## What changes  
 
 **Greater intentionality:** Distance requires this. What would’ve been assumed, understood etc. now will not be. As a default, over-communicate with your team and your leads. In time, you will get used to each other’s new styles. You will either ramp up some of the details that you were sharing because they were well-received, or reduce intensity on other details that are not needed.  Assuming that “nothing changes” is a mistake. Proactively ask others what they need from you, in this situation. 
