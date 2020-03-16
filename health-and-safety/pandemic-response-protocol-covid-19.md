@@ -1,7 +1,7 @@
 # Pandemic Response Protocol: COVID-19
 
 {% hint style="warning" %}
-Current Status: **Level II**
+Current Status: **Level III**
 {% endhint %}
 
 This document serves to help you navigate through the uncertainty to work and life that is the pandemic, Covid-19. As things evolve in Bangalore and in the rest of the country, we will edit, add and change our guidelines. At any point, if you have any questions or concerns, please talk to Rahul or Monica and get the support you need.
