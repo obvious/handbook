@@ -16,7 +16,7 @@ Check off from this list if you have everything you need to function normally:
 * A decent wifi connection
 * In case of wifi outage, a robust phone connection to hotspot off of, while you take the wifi service provider to task
 * A sturdy table and chair that will support 8 hours of comfortable sitting
-* If you share your home space with others, and need to tell them this is work, not a vacation, please read [this](https://lifehacker.com/how-can-i-keep-my-family-from-disturbing-me-when-i-work-518375734) and [this](https://www.bitqueues.com/here-is-how-you-can-manage-interruptions-when-working-from-home/) or take some tips from Monica. She has experience successfully warding off her parents trying to trick her into going to the grocery store when she’s trying to work. 
+* If you share your home space with others, and need to tell them this is work, not a vacation, please read [this](https://lifehacker.com/how-can-i-keep-my-family-from-disturbing-me-when-i-work-518375734) and [this](https://www.bitqueues.com/here-is-how-you-can-manage-interruptions-when-working-from-home/). You might need to ward off folks at home assuming that physical availability at home means availability to do chores. You might want to introduce the new normal gently to folks you live with.
 
 If you have trouble figuring any of this, please raise that issue and let’s see what we can do to help you. 
 
@@ -48,7 +48,7 @@ _Commute! \(What commute? Exactly!\)_
 
 **Setting up a routine:** Getting ready and dressed for work helps, starting and closing at scheduled times helps, taking time off for mealtimes, breaks etc. helps. 
 
-### What becomes Schrodinger's Cat…in that it changes and doesn’t change 
+### What becomes Schrödinger's Cat…in that it changes and doesn’t change 
 
 **Breaks:** You’ll have to be mindful about [taking breaks](https://www.fastcompany.com/90299580/how-to-work-at-peak-productivity-and-know-when-to-take-a-break?utm_source=twitter.com&utm_medium=social). You can’t wait anymore, for someone to come and call you to take a break. You’ll have to DIY a short walk to maybe first make, and then drink some coffee. Staying hydrated is important and you’ll have to get your own bottles of water and refill them too. 
 
