@@ -1,4 +1,4 @@
-# Computing Hardware
+# Hardware
 
 ## Computers
 
@@ -8,12 +8,13 @@ As a lot of our work requires us to travel, we strongly suggest one of two lapto
 
 Your Team Lead will make sure that you have your hardware ready on [your First Day](../starting-at-obvious/your-first-day.md), and you can get set up with all our services and tools over the course of your first week.
 
-| Device | Manufacturer | Key Specs | More Information |
-| :--- | :--- | :--- | :--- |
-| Computer - Portable Option | Apple | 13 inch display, 2.4 GHz 4‑core Intel Core i5, 8 GB of RAM | [Link](https://www.apple.com/in/macbook-pro-13/) |
-| Computer - Power Option | Apple | 16 inch display, 2.3 GHz 8‑core Intel Core i9, 16 GB of RAM | [Link](https://www.apple.com/in/macbook-pro-16/) |
-| Monitor | Dell | Ultrasharp 27-inch U2718Q \(4K\) | [Link](https://www.dell.com/en-in/shop/dell-ultrasharp-27-4k-monitor-u2718q/apd/210-amuf/monitors-monitor-accessories) |
-| Standing Desk | Haworth | Haworth Planes Sit Stand Desk | [Link](https://www.haworth.com/products/tables/height-adjustable/planes) |
+| Device | Manufacturer | Key Specs |
+| :--- | :--- | :--- |
+| Computer - Portable Option | Apple | [13 inch display, 2.4 GHz 4‑core Intel Core i5, 8 GB of RAM](https://www.apple.com/in/macbook-pro-13/) |
+| Computer - Power Option | Apple | [16 inch display, 2.3 GHz 8‑core Intel Core i9, 16 GB of RAM](https://www.apple.com/in/macbook-pro-16/) |
+| Monitor | Dell | [Ultrasharp 27-inch U2718Q \(4K\)](https://www.dell.com/en-in/shop/dell-ultrasharp-27-4k-monitor-u2718q/apd/210-amuf/monitors-monitor-accessories) |
+| Standing Desk | Haworth | [Haworth Planes Sit Stand Desk](https://www.haworth.com/products/tables/height-adjustable/planes) |
+| Chairs | Haworth | [Aloha Easy](https://www.haworth.com/ap/products/seating/desk-chairs/aloha-easy) |
 
 ## Workspace
 

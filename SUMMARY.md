@@ -35,7 +35,7 @@
     * [Conversations on Emotional Wellbeing](employee-handbook/benefits-and-perks/emotional-wellbeing/conversations-on-emotional-wellbeing.md)
   * [Speaking at Conferences](employee-handbook/benefits-and-perks/speaking-at-conferences.md)
   * [Continuing Education](employee-handbook/benefits-and-perks/continuing-education.md)
-  * [Computing Hardware](employee-handbook/benefits-and-perks/devices-for-work.md)
+  * [Hardware](employee-handbook/benefits-and-perks/devices-for-work.md)
   * [Referral Bonuses](employee-handbook/benefits-and-perks/referral-bonuses.md)
   * [Charitable Donations](employee-handbook/benefits-and-perks/charitable-donations.md)
 * [How We Work](employee-handbook/how-we-work/README.md)
