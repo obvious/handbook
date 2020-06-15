@@ -99,7 +99,9 @@ description: Creating a Safe Environment for Performance Reviews
       <td style="text-align:left"></td>
     </tr>
   </tbody>
-</table>### Starting the conversation:   
+</table>
+
+### Starting the conversation:   
 
 <table>
   <thead>
@@ -166,7 +168,9 @@ description: Creating a Safe Environment for Performance Reviews
       </td>
     </tr>
   </tbody>
-</table>### The conversation
+</table>
+
+### The conversation
 
 <table>
   <thead>
@@ -218,7 +222,9 @@ description: Creating a Safe Environment for Performance Reviews
       <td style="text-align:left">Same as above</td>
     </tr>
   </tbody>
-</table>### Ending the conversation
+</table>
+
+### Ending the conversation
 
 <table>
   <thead>
@@ -306,7 +312,9 @@ description: Creating a Safe Environment for Performance Reviews
         the patterns :)</td>
     </tr>
   </tbody>
-</table>### Further reading: 
+</table>
+
+### Further reading: 
 
 * [https://hbr.org/2017/08/high-performing-teams-need-psychological-safety-heres-how-to-create-it](https://hbr.org/2017/08/high-performing-teams-need-psychological-safety-heres-how-to-create-it)
 * Approaching conflict as a collaborator not an adversary

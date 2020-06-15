@@ -78,6 +78,7 @@
 
 * [Pandemic Response Protocol: COVID-19](health-and-safety/pandemic-response-protocol-covid-19.md)
 * [Remote Work](health-and-safety/remote-work.md)
+* [Evolving guidelines for remote work](health-and-safety/evolving-guidelines-for-remote-work.md)
 
 ## Legal Templates
 
