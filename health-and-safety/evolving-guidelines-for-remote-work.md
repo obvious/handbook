@@ -23,5 +23,13 @@ They will keep everyone informed by way of a quick announcement at the townhall,
 
 All hardware except the laptop issued to the person needs to be sent to the office prior to the move. They need to coordinate this with the office management folk and get the hardware delivered to the office before their travel date. 
 
+**One-time WFH fund**
 
+For people who'd like help in putting together a stronger infrastructure - a better router, perhaps - there is a one-time fund of Rs. 10,000 to be availed. 
+
+This can be used by people in other locations to buy hardware as well.  
+
+**For people in Bangalore: Hardware shifted to home offices**
+
+At the moment, over 70% of the people working remotely and in Bangalore have requested for hardware ranging from monitors to standing desks and chairs to be delivered home, so that they can function like they did at the office. 
 
