@@ -174,7 +174,27 @@ In addition to the above, where you are preparing for the conversation, checking
 * Ask them, in time, if they’re feeling upto handling more responsibilities, how they would like to be onboarded back again. Make that plan happen.  
 
 Remember that there is an escalation matrix - if you feel uncomfortable for any reason, after any level of this conversation, please reach out to the People Ops folk.    
-  
-  
 
+
+**The emotional well-being of team leads and managers**
+
+It is important to remember and acknowledge that team leaders and managers will go through the same emotional strife cycles as the rest of the organisation does. When that happens, they have to take into account the responsibilities that come with being a people manager: responsibility towards work delivery and towards career goals of team members. Often, leaders will put their own needs last, despite identifying a stressful or burnout situation  they find themselves in. 
+
+It is critical for leaders to recognise that when not well, they are putting themselves at risk to further fatigue and loss of motivation to work. They cannot lead as well as they would have done, and that is not fair to their team members, in addition to unfairness to themselves. 
+
+**What can leaders do:**  
+
+* Accept that these things happen and that it cannot be scheduled to convenient times.
+* Ask for help from your managers, peers and team members. Just the way you would've been there to support others, imagine that they would want to be there for you. 
+* Start putting a plan B for times when you can't be a 100% available and scale up team members to meet the challenges.  
+
+**What can team members do:** 
+
+* Ask what help the leader needs and assess if you can give that help. If yes, give that help. 
+* Ask if you could take on some of their tasks, and complete these with autonomy. 
+* Reach out to the manager's manager or to someone else in the organisation, for doubts and questions. 
+* Take the pressure off the manager who is struggling with asks of them. 
+* Make sure you let them know what you are doing, and get their buy-in, beforehand. 
+
+To be an effective leader, it is important to remind oneself that in taking care of self, it becomes easier to take care of others.  What we demonstrate as desired behaviour gets picked up and becomes culture over time. Care towards self will pave the way for care for others. 
 
