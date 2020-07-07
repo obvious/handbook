@@ -2,7 +2,7 @@
 description: First-aid and preparedness protocol for everyone to try and use at home
 ---
 
-# First-Aid & preparedness at home
+# Preparedness at home and First-Aid
 
 It helps to be prepared, in the face of a pandemic. A fully stocked up first-aid kit is your first port of call. Being mentally prepared with a to-do list and contacts at home & being emotionally prepared is the next. 
 

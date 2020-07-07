@@ -79,7 +79,7 @@
 * [Pandemic Response Protocol: COVID-19](health-and-safety/pandemic-response-protocol-covid-19.md)
 * [Remote Work](health-and-safety/remote-work.md)
 * [Evolving guidelines for remote work](health-and-safety/evolving-guidelines-for-remote-work.md)
-* [First-Aid & preparedness at home](health-and-safety/first-aid-and-preparedness-at-home.md)
+* [Preparedness at home and First-Aid](health-and-safety/first-aid-and-preparedness-at-home.md)
 
 ## Legal Templates
 
