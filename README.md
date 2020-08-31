@@ -11,8 +11,8 @@ One of our core values is to be "**public by default**": this repository therefo
 | [Employee Handbook](employee-handbook/introduction/) |
 | [Design Playbook](https://design.obvious.in/) |
 | [Engineering Playbook](https://engineering.obvious.in/) |
-| [Hiring Playbook](https://hiring.obvious.in/) |
-| [Career Growth and Progression](https://progression.obvious.in/) |
+| [Hiring Playbook](https://playbook.obvious.in/hiring/hiring-philosophy) |
+| [Career Growth and Progression](https://playbook.obvious.in/career-growth/design-growth-framework) |
 | [Community and Events](https://community.obvious.in/) |
 | [Job Listings](https://jobs.obvious.in/) |
 
