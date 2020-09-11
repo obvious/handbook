@@ -24,9 +24,9 @@ While extending an opportunity to someone to work together with us, we look for 
 
 Commitment to craft is about taking a sense of ownership and pride in your work, to really care about everything you do. It also means valuing craft over self. Good craftspeople rise above differences with other craftspeople around them and appreciate others solely on their craft.
 
-At Obvious, we are ardent believers that culture fit leads to a homogeneous team and we don't look for culture fit. On the contrary, we believe in diversity. One of our core values is to fight the default of exclusion. While looking at a potential team member, we look how our values are aligned, in spite of whatever cultural background or experience people have had. When people with same values work together, diversity is actually an enabler. 
+At Obvious, we are ardent believers that culture fit leads to a homogeneous team and we don't look for culture fit. On the contrary, we believe in diversity. One of our core values is to fight the default of exclusion. While looking at a potential team member, we look at how our values are aligned, in spite of whatever cultural background or experience people have had. When people with same values work together, diversity is actually an enabler. 
 
-Openness and transparency helps in building a productive workplace. Humble people who communicate their thought process openly and give/receive feedback in a helpful manner   increase the overall quality of work output, as well as help in building trust and mutual respect among coworkers. This openness and transparency extends beyond the workplace - to the client and to the users for whom we are designing the products.
+Openness and transparency help in building a productive workplace. Humble people who communicate their thought process openly and give/receive feedback in a helpful manner increase the overall quality of work output, as well as help in building trust and mutual respect among coworkers. This openness and transparency extend beyond the workplace - to the client and to the users for whom we are designing the products.
 
 {% hint style="success" %}
 If this is aligned with your idea of an ideal workplace, please read on.

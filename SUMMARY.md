@@ -81,6 +81,14 @@
 * [Evolving guidelines for remote work](health-and-safety/evolving-guidelines-for-remote-work.md)
 * [Preparedness at home and First-Aid](health-and-safety/first-aid-and-preparedness-at-home.md)
 
+## Communications
+
+* [Publishing + Style Guide]()
+  * [Voice, Tone and Style](communications/publishing-style-guide/voice-tone-style.md)
+  * [Editorial Guidelines](communications/publishing-style-guide/editorial-guidelines.md)
+  * [Publication Guidelines](communications/publishing-style-guide/publication-guidelines.md)
+* [Brand Guidelines](communications/brand-guidelines.md)
+
 ## Legal Templates
 
 * [Client Contracts](legal-templates/legal-templates/README.md)
@@ -97,7 +105,6 @@
 
 * [Good People to Work With](miscellaneous/good-people-to-work-with.md)
 * [The Obvious Library](miscellaneous/the-obvious-library.md)
-* [Brand Guidelines](miscellaneous/brand-guidelines.md)
 
 ## Elsewhere
 

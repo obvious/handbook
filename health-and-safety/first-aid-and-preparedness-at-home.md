@@ -8,7 +8,7 @@ It helps to be prepared, in the face of a pandemic. A fully stocked up first-aid
 
 **A STOCKED FIRST-AID KIT**
 
-We are listing articles you will need to protect the immune system and "dealing with" articles in case of a cold, cough, fever or 'flu-like symptoms. To be clear, nobody knows what it would take to build resistance to Covid-19. With the seasonal flu on the rise, however, it is advisable to guard from the 'flu, and not render the immune system vulnerable to further attacks. 
+We are listing articles you will need to protect the immune system and "dealing with" articles in case of a cold, cough, fever or 'flu-like symptoms. To be clear, nobody knows what it would take to build resistance to Covid-19. With the seasonal flu on the rise, however, it is advisable to guard against the 'flu, and not render the immune system vulnerable to further attacks. 
 
 Here are a few things to stock-up your First-Aid kit with.
 
@@ -26,12 +26,12 @@ Here are a few things to stock-up your First-Aid kit with.
   * A box of glucose/ ORS to hydrate, in case needed
   * A number of soup packets, in case of feeling sick and being unable to take care of self with cooking full meals
 
-**2. To deal with influenza like illnesses:**
+**2. To deal with influenza-like illnesses:**
 
 * Two strips of Paracetamol
 * Two strips of an anti-histamine like Allegra or Teczine
-* Cough syrup like Grillinctus - two bottles
-* A thermometer per person at home/ a no contact thermometer
+* Cough syrup-like Grillinctus - two bottles
+* A thermometer per person at home/ a no-contact thermometer
 * A pulse oximeter: Checks oxygen saturation levels in the blood \(how efficiently is oxygen sent to the extremities\) [Understand the reading](https://www.realfirstaid.co.uk/pulse). 
 
 **PREPAREDNESS** 

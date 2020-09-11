@@ -31,5 +31,5 @@ This can be used by people in other locations to buy hardware as well.
 
 **For people in Bangalore: Hardware shifted to home offices**
 
-At the moment, over 70% of the people working remotely and in Bangalore have requested for hardware ranging from monitors to standing desks and chairs to be delivered home, so that they can function like they did at the office. 
+At the moment, over 70% of the people working remotely and in Bangalore have requested for hardware ranging from monitors to standing desks and chairs to be delivered home, so that they can function as they did at the office. 
 
