@@ -27,7 +27,7 @@ We use contractions such as “they’re”, “we’re”, “I’m” and “s
 We actively try to practise conscious writing, so we avoid:
 
 **Industry jargon**  
-We avoid using industry jargon unless needed, in which case we hyperlink them. Our language mostly aims to simplify ‘industry speak’ to make our thoughts more accessible.
+We avoid using industry jargon unless needed, in which case we hyperlink them to an explanatory source. Our language mostly aims to simplify ‘industry speak’ to make our thoughts more accessible.
 
 **Negative language**  
 We avoid using any negative language as much as possible and frame sentences positively.
