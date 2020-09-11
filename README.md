@@ -13,6 +13,7 @@ One of our core values is to be "**public by default**": this repository, theref
 | [Engineering Playbook](https://engineering.obvious.in/) |
 | [Hiring Playbook](https://playbook.obvious.in/hiring/hiring-philosophy) |
 | [Career Growth and Progression](https://playbook.obvious.in/career-growth/design-growth-framework) |
+| [Communications](https://playbook.obvious.in/communications/publishing-style-guide) |
 | [Community and Events](https://community.obvious.in/) |
 | [Job Listings](https://jobs.obvious.in/) |
 

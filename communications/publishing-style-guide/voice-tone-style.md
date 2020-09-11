@@ -4,7 +4,7 @@ description: Our approach to achieving consistency and inclusivity.
 
 # Voice, Tone and Style
 
-We speak like clear, compassionate, experienced and earnest business partners that are invested in the growth of our clients and organisation. We are casually formal yet conversational and do not sound authoritative. To that end, when we write anything, we are: 
+We speak like clear, compassionate, experienced and earnest business partners who are invested in the growth of our clients and organisation. We are casually formal yet conversational and do not sound authoritative. To that end, when we write anything, we are: 
 
 * Conversational
 * Plainspoken 
@@ -38,7 +38,7 @@ We avoid using maxims that are inherently ableist, such as “falling on deaf ea
 We also create short, snappy sentences that can be easily read out by a machine for any visually-impaired visitors.
 
 **Gender assumption**  
-We avoid specifying genders where it is unclear or the preference of the person in question is unknown. To that end, we use “they” in such instances instead of he/she.
+We avoid specifying genders where it is unclear, or if the preference of the person in question is unknown. To that end, we use “they” in such instances instead of he/she.
 
 **Slang and colloquialisms**  
 We avoid using slang or colloquial language that may inadvertently alienate readers.

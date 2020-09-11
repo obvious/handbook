@@ -83,7 +83,7 @@
 
 ## Communications
 
-* [Publishing + Style Guide]()
+* [Publishing + Style Guide](communications/publishing-style-guide/README.md)
   * [Voice, Tone and Style](communications/publishing-style-guide/voice-tone-style.md)
   * [Editorial Guidelines](communications/publishing-style-guide/editorial-guidelines.md)
   * [Publication Guidelines](communications/publishing-style-guide/publication-guidelines.md)
