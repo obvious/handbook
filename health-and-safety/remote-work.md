@@ -52,7 +52,37 @@ In the office, our natural workflow is to finish a chunk of work, step away from
 
 If you need to be signal unavailability for calls or conversation, please indicate that in your calendars by blocking time off for deep work, and indicate that on your Slack as well, with that as your status for the time you want to block.
 
-#### Communication
+#### What changes  
+
+**Greater intentionality:** Distance requires this. What would’ve been assumed, understood etc. now will not be. As a default, over-communicate with your team and your leads. In time, you will get used to each other’s new styles. You will either ramp up some of the details that you were sharing because they were well-received, or reduce intensity on other details that are not needed.  Assuming that “nothing changes” is a mistake. Proactively ask others what they need from you, in this situation. 
+
+**Team meetings:** Teams will decide on daily standups on Zoom. Make sure you’re there by default. If you aren’t going to be, let others know in advance, and do what is needed to make sure there isn’t a dependency on you in that call. In these calls, talk about what you’re doing that day and what you got done with the day before. 
+
+**Client calls:** Leads will have daily standups with clients and will update the rest of the team on these. Make sure you’re updated on what’s going on. It’s all too easy to get lost in the details of your own work and lose track of the larger picture.
+
+**Team meetings:** Teams meet once a week on Zoom. 
+
+**Townhalls:** Townhalls happen on Zoom every Friday at 4pm, as usual.
+
+_Commute! \(What commute? Exactly!\)_ 
+
+#### What doesn’t change
+
+#### Your work: The work itself, deliverables etc. stays unchanged, as does the pace of work
+
+**Water cooler talk:**  All we need is to take it to the \#random channel. 
+
+**Setting up a routine:** Getting ready and dressed for work helps, starting and closing at scheduled times helps, taking time off for mealtimes, breaks etc. helps. 
+
+#### What becomes Schrödinger's Cat…in that it changes and doesn’t change 
+
+**Breaks:** You’ll have to be mindful about [taking breaks](https://www.fastcompany.com/90299580/how-to-work-at-peak-productivity-and-know-when-to-take-a-break?utm_source=twitter.com&utm_medium=social). You can’t wait anymore, for someone to come and call you to take a break. You’ll have to DIY a short walk to maybe first make, and then drink some coffee. Staying hydrated is important and you’ll have to get your own bottles of water and refill them too. 
+
+**Saying good morning and bye for the day:** When you’re logging in for the day, chirp up - not just so others know when you’re on from but also because you don’t feel like you’re alone, working in the void. 
+
+**Lunch:** At noon, take a quick break to evaluate what you need to do, so you’re able to dig into lunch at 1pm. 
+
+### Communication
 
 Here are the golden rules of communicating with clarity when working remotely:
 
@@ -86,7 +116,7 @@ There could be situations that require video to be on. For instance, training wo
 
 _Look inward:_ Connections are formed best when we get a chance to mimic real in-person conversations. A video call helps with that. If you have a tendency to keep your video at all times, or most of the time, be mindful of that. What can you do instead, to create and build on that connection with others?
 
-#### **Boundaries:**
+### **Boundaries:**
 
 **Defining your working hours:**
 
@@ -96,41 +126,5 @@ It is easy to slide into a place where you don't have demarcations between work 
 
 **Bonus:** Those of you have endured the tortures of commuting in Bangalore could also give yourself a reward for escaping that reality - maybe an extended meal or a chat with a friend in the time that you would've spent commuting.
 
-### What changes  
 
-**Greater intentionality:** Distance requires this. What would’ve been assumed, understood etc. now will not be. As a default, over-communicate with your team and your leads. In time, you will get used to each other’s new styles. You will either ramp up some of the details that you were sharing because they were well-received, or reduce intensity on other details that are not needed.  Assuming that “nothing changes” is a mistake. Proactively ask others what they need from you, in this situation. 
-
-**Call out the outlier conditions:** On days when you are out, or are logging out early, let others know. What would’ve been evident isn’t going to be, anymore. Plan for that. 
-
-**Team meetings:** Teams will decide on daily standups on Zoom. Make sure you’re there by default. If you aren’t going to be, let others know in advance, and do what is needed to make sure there isn’t a dependency on you in that call. In these calls, talk about what you’re doing that day and what you got done with the day before. 
-
-**Client calls:** Leads will have daily standups with clients; and will update the rest of the team on these. Make sure you’re updated on what’s going on. It’s all too easy to get lost in the details of your own work and lose track of the larger picture.
-
-**Team meetings:** Teams meet once a week on Zoom. 
-
-**Townhalls:** Townhalls happen on Zoom every Friday at 4pm, as usual.
-
-How you are being productive: [Read this](https://www.fastcompany.com/90299580/how-to-work-at-peak-productivity-and-know-when-to-take-a-break?utm_source=twitter.com&utm_medium=social) for some tips.
-
-_Commute! \(What commute? Exactly!\)_ 
-
-### What doesn’t change
-
-#### Your work: The work itself, deliverables etc. stays unchanged, as does the pace of work
-
-**Water cooler talk:**  All we need is to take it to the \#random channel. 
-
-**Setting up a routine:** Getting ready and dressed for work helps, starting and closing at scheduled times helps, taking time off for mealtimes, breaks etc. helps. 
-
-### What becomes Schrödinger's Cat…in that it changes and doesn’t change 
-
-**Breaks:** You’ll have to be mindful about [taking breaks](https://www.fastcompany.com/90299580/how-to-work-at-peak-productivity-and-know-when-to-take-a-break?utm_source=twitter.com&utm_medium=social). You can’t wait anymore, for someone to come and call you to take a break. You’ll have to DIY a short walk to maybe first make, and then drink some coffee. Staying hydrated is important and you’ll have to get your own bottles of water and refill them too. 
-
-**Saying good morning and bye for the day:** When you’re logging in for the day, chirp up - not just so others know when you’re on from but also because you don’t feel like you’re alone, working in the void. 
-
-**Lunch:** At noon, take a quick break to evaluate what you need to do, so you’re able to dig into lunch at 1pm. 
-
-Outside of office work, make sure you’re set at home with [supplies](https://thewirecutter.com/blog/what-coronavirus-supplies-should-you-have-at-home-the-same-things-you-always-should/).
-
-Till we’re all back again in the same location, take care of yourselves and those around you. Keep calm, carry on, and don’t panic.
 
