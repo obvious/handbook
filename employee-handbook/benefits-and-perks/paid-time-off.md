@@ -23,7 +23,7 @@ Any employee who wishes to take time off due to the death of an immediate family
 
 Communicate broadly when you will be away so other people can manage time efficiently, projects don't slip through the cracks, and so that you don't get bothered while away.
 
-1. Request your time off in [Timetastic](http://timetastic.co.uk/), with your dates, and your reason for being away _\(if applicable\)_. Your request for time off will be approved by your respective team lead.
+1. Request your time off in [Pause](https://app.getpause.com/), with your dates, and your reason for being away _\(if applicable\)_. Your request for time off will be approved by your respective team lead.
 2. Update your own calendar using Google's ["out of office"](https://www.theverge.com/2018/6/27/17510656/google-calendar-out-of-office-option) feature and include the dates you plan to be away in your automated response. Note that this feature will automatically decline any meeting invitations during the time frame you select. Include the contact details of a co-worker in case anything urgent or critical comes into your inbox while you're away.
 3. Decline any meetings you will not be present for so the organizer can make appropriate arrangements. 
 4. Cancel, move, or find coverage for any meetings for which you are the organizer.
