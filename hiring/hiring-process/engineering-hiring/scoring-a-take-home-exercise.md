@@ -30,7 +30,7 @@ The scoring has three different sections \(see table below\), all of which contr
 | There is some separation of concerns \(ex: separate interface and classes for querying data/making network calls\). | 1 |
 | Candidate has used a standard architecture pattern \(MV\*/others\) or a library \(Mobius/MvRx/others\). The candidate could also have rolled their own architecture as long as there is clear documentation on their custom solution. | 2 |
 
-| **Minimum Score Required** | **3** | 
+\| **Minimum Score Required** \| **3** \|
 
 ## Recommended reading and watching
 
