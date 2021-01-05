@@ -1,4 +1,4 @@
-# Brand Guidelines
+# Brand Identity
 
 ## Obvious Logo - Primary
 

@@ -88,7 +88,7 @@
   * [Voice, Tone and Style](communications/publishing-style-guide/voice-tone-style.md)
   * [Editorial Guidelines](communications/publishing-style-guide/editorial-guidelines.md)
   * [Publication Guidelines](communications/publishing-style-guide/publication-guidelines.md)
-* [Brand Guidelines](communications/brand-guidelines.md)
+* [Brand Identity](communications/brand-guidelines.md)
 
 ## Legal Templates
 
